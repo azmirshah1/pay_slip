@@ -16,9 +16,14 @@ body {
 	color: #444;
 }
 
+.img {
+    width: 100%;
+    height: 10px;
+}
+
 #payslip {
 	width: calc( 8.5in - 80px );
-	height: calc( 11in - 60px );
+	height: calc( 14in - 60px );
 	background: #fff;
 	padding: 30px 40px;
 }
